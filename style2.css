@@ -1,0 +1,67 @@
+.menu:hover{
+    
+    background-color:red;
+    
+    
+}
+a:hover{
+    color: darkblue;
+}
+#ENGLISH{
+    
+    width:102px;
+    height:40px;
+    
+    
+}
+#ENGLISH:hover{
+    background-color: yellow;
+    border: none;
+}
+.top{
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+}
+.menu{
+    display: block;
+    font-size: large;
+    text-transform: capitalize;
+    width: 120px;
+    height:20px;
+    color:white;
+    font-weight: bold;
+    background-color: rgb(35, 35, 82);
+    padding:10px;
+}
+.lang{
+    padding: 10px;
+    background-color: white;
+    border: 0.1px solid black;
+
+}
+.box{
+    display: flex;
+    justify-content: space-between;
+}
+.p1{
+    font-size: 40px;
+    color: navy;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding: 80px;
+    width: 400px;
+    height: 40px;
+}
+.p2{
+    width: 500px;
+    height: 150px;
+    padding: 130px;
+    font-size: 20px;
+    line-height:35px ;
+    font-family: sans-serif;
+
+
+}
